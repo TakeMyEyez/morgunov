@@ -1,4 +1,4 @@
-﻿numpy==2.3.3
-Fastapi
+fastapi
 uvicorn
 jose
+python-multipart
